@@ -1,0 +1,12 @@
+{
+  "name": "fairhire-ai",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "dev:frontend": "npm --workspace=frontend run dev",
+    "build:frontend": "npm --workspace=frontend run build"
+  }
+}

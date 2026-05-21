@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv312/
+*.egg-info/
+.env
+credentials.json
+*.db
+*.log
+
+# Dev/debug scripts — keep in repo under backend/scripts/ but never deploy
+backend/scripts/
+
+# Stray output files from scripts
+backend/*.txt
+backend/uvicorn
+
+# Node
+node_modules/
+dist/
+.next/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform.lock.hcl
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
