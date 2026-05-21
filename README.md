@@ -9,7 +9,7 @@
 <!-- Replace the line below with your actual demo GIF or screenshot -->
 <!-- ![FairHire AI Demo](./demo/dashboard-preview.gif) -->
 
-**[📹 Watch Full Demo →](#)** &nbsp;|&nbsp; **[⭐ Star this repo](#)** &nbsp;|&nbsp; **[📄 Technical Documentation](#)**
+**[📹 Watch Full Demo →](https://drive.google.com/file/d/1HfGapmyf0MRDe8QT3DB6Of0lBFdXlhW5/view?usp=sharing)** &nbsp;|&nbsp; **[⭐ Star this repo](#)** &nbsp;|&nbsp; **[📄 Technical Documentation](#)**
 
 ---
 
